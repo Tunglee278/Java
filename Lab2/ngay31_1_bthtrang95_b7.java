@@ -7,3 +7,4 @@ public class ngay31_1_bthtrang95_b7 {
         for(int i = 1;i <= 20; ++i)
             System.out.print(i + " ");
     }
+}

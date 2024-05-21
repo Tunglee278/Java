@@ -27,3 +27,4 @@ public class ngay31_1_bthtrang97_b12 {
         }
         System.out.println("Phan tu lon nhat trong ma tran la : " + max_value);
     }
+}
